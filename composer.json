@@ -59,6 +59,9 @@
             "php artisan optimize"
         ]
     },
+    "require": {
+        "eusonlito/laravel-packer": "master-dev"
+    },
     "config": {
         "preferred-install": "dist",
         "sort-packages": true
